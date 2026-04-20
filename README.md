@@ -1,4 +1,4 @@
-Absolutely — here is a **complete, optimized, step‑by‑step guide** to installing **Ubuntu Linux** on your **MacBook Air 11" (MD711UA/A, 4 GB RAM)** with the **best performance, battery life, and usability**.  
+Here is a **complete, optimized, step‑by‑step guide** to installing **Ubuntu Linux** on your **MacBook Air 11" (MD711UA/A, 4 GB RAM)** with the **best performance, battery life, and usability**.  
 This is tailored specifically for your hardware.
 
 I’ll give you **exact steps**, **recommended settings**, and **post‑install optimizations** so your MacBook Air feels fast and modern again.
