@@ -14,7 +14,9 @@ For your hardware, these are the best options:
 - Very stable  
 - Good UI  
 - Low RAM usage (~700–900 MB idle)  
-- Excellent for older Macs  
+- Excellent for older Macs
+
+[Download](https://cdimage.ubuntu.com/ubuntu-mate/releases/jammy/release/)
 
 ### **Alternative: Linux Mint XFCE**
 - Even lighter  
